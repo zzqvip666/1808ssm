@@ -25,6 +25,8 @@ public class helloController {
     public  Object hello(){
 		System.out.println("nihaoaaaaaaaaaaaaa");
 
+		System.out.println("-------------------->");
+
         return "";
 
     }

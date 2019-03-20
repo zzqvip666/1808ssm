@@ -23,8 +23,7 @@ public class helloController {
     @RequestMapping("/hello")
     @ResponseBody
     public  Object hello(){
-		System.out.println("nihao!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!aaaaaaaaaaaaa");
-
+		System.out.println("nihao---------------------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>aaaaaaaaaaaaa");
 		System.out.println("-------------------->");
 
         return "";

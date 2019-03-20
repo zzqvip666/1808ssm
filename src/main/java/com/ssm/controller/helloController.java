@@ -24,6 +24,8 @@ public class helloController {
     @ResponseBody
     public  Object hello(){
 
+		System.out.println("-------------------->");
+
         return "";
 
     }
